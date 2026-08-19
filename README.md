@@ -295,7 +295,7 @@ Through this project, I learned:
 
 B.Tech — Electronics & Telecommunication Engineering
 
-### 👨‍🏫 Guide
+## 👨‍🏫 Guide
 
 **Yameen Hakim Sir**
 
